@@ -3,6 +3,7 @@ close all; % Close all figures
 clc; % Clear command window
 
 % Test text, see if this works
+% keep on testing
 
 dirinfo = dir("*.mat"); % Get information about .mat files in the current directory
 
